@@ -1,0 +1,13 @@
+.card {
+  background: rgba(255, 255, 255, 0.95);
+}
+
+.btn-primary {
+  background-color: #2563eb;
+  border-color: #2563eb;
+}
+
+.btn-outline-secondary {
+  color: #334155;
+  border-color: #cbd5e1;
+}
