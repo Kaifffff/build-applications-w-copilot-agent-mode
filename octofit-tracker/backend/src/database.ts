@@ -12,5 +12,3 @@ export const connectToDatabase = async () => {
   await mongoose.connect(MONGO_URI);
   return database;
 };
-
-export default connectToDatabase;
